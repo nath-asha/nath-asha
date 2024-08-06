@@ -10,7 +10,9 @@
 <!--  <p align="right"> <h3>Profile :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nath-asha&label=Profile%20views&color=0e75b6&style=flat" alt="nath-asha" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nath-asha" alt="nath-asha" /></a> </p>
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
@@ -26,31 +28,9 @@
 
 <!--EDIT starts here -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/company/team-challengers" target="blank"><img align="center"
+  <a href="https://linkedin.com/in/https://in.linkedin.com/in/nathasha-t-492a4125b" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="https://www.facebook.com/teamchallengers.sahyadri/" target="blank"><img align="center"
