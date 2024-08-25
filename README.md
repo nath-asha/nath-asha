@@ -51,7 +51,7 @@
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
 </details>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nath-asha&show_icons=true&locale=en&layout=compact" alt="nath-asha" /></p>
+<!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nath-asha&show_icons=true&locale=en&layout=compact" alt="nath-asha" /></p> --->
 <br>
 <h3>Statistical Data :-</h3>
 <p><img align="center"
