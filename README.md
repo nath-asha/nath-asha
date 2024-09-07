@@ -33,6 +33,9 @@
   <a href="https://linkedin.com/in/https://in.linkedin.com/in/nathasha-t-492a4125b" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
+    <a href="  https://twitter.com/nate31974945" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
   <a href="https://www.instagram.com/challengers.sahyadri/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
