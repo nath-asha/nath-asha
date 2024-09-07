@@ -39,10 +39,6 @@
   <a href="https://www.instagram.com/challengers.sahyadri/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
-    <a href="[https://unstop.com/u/nxhpgqsf1105](https://unstop.com/u/nxhpgqsf1105)" target="blank"><img align="center"
-        src="![image](https://github.com/user-attachments/assets/d5caaae2-601d-462d-a3ab-1a8f9cc4daa1)" height="30" width="40" /></a>
-</p>
-
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
