@@ -43,7 +43,7 @@
       src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/svg/unstop-logo.svg"
       alt="_._.adam._" height="30" width="40" /></a>
 <br>
-https://nath-asha.github.io/
+
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
